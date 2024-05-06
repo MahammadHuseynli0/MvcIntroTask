@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\TaskFronttoBack\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{695E13D1-A13A-4BED-88B4-9E8536FF2985}|TaskFronttoBack\\TaskFronttoBack.csproj|c:\\users\\user\\source\\repos\\taskfronttoback\\taskfronttoback\\controllers\\workcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{695E13D1-A13A-4BED-88B4-9E8536FF2985}|TaskFronttoBack\\TaskFronttoBack.csproj|solutionrelative:taskfronttoback\\controllers\\workcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{695E13D1-A13A-4BED-88B4-9E8536FF2985}|TaskFronttoBack\\TaskFronttoBack.csproj|c:\\users\\user\\source\\repos\\taskfronttoback\\taskfronttoback\\views\\work\\worksingle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{695E13D1-A13A-4BED-88B4-9E8536FF2985}|TaskFronttoBack\\TaskFronttoBack.csproj|solutionrelative:taskfronttoback\\views\\work\\worksingle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{695E13D1-A13A-4BED-88B4-9E8536FF2985}|TaskFronttoBack\\TaskFronttoBack.csproj|c:\\users\\user\\source\\repos\\taskfronttoback\\taskfronttoback\\controllers\\aboutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{695E13D1-A13A-4BED-88B4-9E8536FF2985}|TaskFronttoBack\\TaskFronttoBack.csproj|solutionrelative:taskfronttoback\\controllers\\aboutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{695E13D1-A13A-4BED-88B4-9E8536FF2985}|TaskFronttoBack\\TaskFronttoBack.csproj|c:\\users\\user\\source\\repos\\taskfronttoback\\taskfronttoback\\views\\about\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{695E13D1-A13A-4BED-88B4-9E8536FF2985}|TaskFronttoBack\\TaskFronttoBack.csproj|solutionrelative:taskfronttoback\\views\\about\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{695E13D1-A13A-4BED-88B4-9E8536FF2985}|TaskFronttoBack\\TaskFronttoBack.csproj|c:\\users\\user\\source\\repos\\taskfronttoback\\taskfronttoback\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{695E13D1-A13A-4BED-88B4-9E8536FF2985}|TaskFronttoBack\\TaskFronttoBack.csproj|solutionrelative:taskfronttoback\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{695E13D1-A13A-4BED-88B4-9E8536FF2985}|TaskFronttoBack\\TaskFronttoBack.csproj|c:\\users\\user\\source\\repos\\taskfronttoback\\taskfronttoback\\views\\work\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{695E13D1-A13A-4BED-88B4-9E8536FF2985}|TaskFronttoBack\\TaskFronttoBack.csproj|solutionrelative:taskfronttoback\\views\\work\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{695E13D1-A13A-4BED-88B4-9E8536FF2985}|TaskFronttoBack\\TaskFronttoBack.csproj|c:\\users\\user\\source\\repos\\taskfronttoback\\taskfronttoback\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{695E13D1-A13A-4BED-88B4-9E8536FF2985}|TaskFronttoBack\\TaskFronttoBack.csproj|solutionrelative:taskfronttoback\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{695E13D1-A13A-4BED-88B4-9E8536FF2985}|TaskFronttoBack\\TaskFronttoBack.csproj|c:\\users\\user\\source\\repos\\taskfronttoback\\taskfronttoback\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{695E13D1-A13A-4BED-88B4-9E8536FF2985}|TaskFronttoBack\\TaskFronttoBack.csproj|solutionrelative:taskfronttoback\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{695E13D1-A13A-4BED-88B4-9E8536FF2985}|TaskFronttoBack\\TaskFronttoBack.csproj|c:\\users\\user\\source\\repos\\taskfronttoback\\taskfronttoback\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{695E13D1-A13A-4BED-88B4-9E8536FF2985}|TaskFronttoBack\\TaskFronttoBack.csproj|solutionrelative:taskfronttoback\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WorkController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TaskFronttoBack\\TaskFronttoBack\\Controllers\\WorkController.cs",
+              "RelativeDocumentMoniker": "TaskFronttoBack\\Controllers\\WorkController.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TaskFronttoBack\\TaskFronttoBack\\Controllers\\WorkController.cs",
+              "RelativeToolTip": "TaskFronttoBack\\Controllers\\WorkController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T23:31:31.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WorkSingle.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TaskFronttoBack\\TaskFronttoBack\\Views\\Work\\WorkSingle.cshtml",
+              "RelativeDocumentMoniker": "TaskFronttoBack\\Views\\Work\\WorkSingle.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TaskFronttoBack\\TaskFronttoBack\\Views\\Work\\WorkSingle.cshtml",
+              "RelativeToolTip": "TaskFronttoBack\\Views\\Work\\WorkSingle.cshtml",
+              "ViewState": "AQIAAFwBAAAAAAAAAAAAAA8AAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-06T23:31:10.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TaskFronttoBack\\TaskFronttoBack\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "TaskFronttoBack\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TaskFronttoBack\\TaskFronttoBack\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "TaskFronttoBack\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-06T23:25:23.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TaskFronttoBack\\TaskFronttoBack\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "TaskFronttoBack\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TaskFronttoBack\\TaskFronttoBack\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "TaskFronttoBack\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-06T23:25:20.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TaskFronttoBack\\TaskFronttoBack\\Views\\About\\Index.cshtml",
+              "RelativeDocumentMoniker": "TaskFronttoBack\\Views\\About\\Index.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TaskFronttoBack\\TaskFronttoBack\\Views\\About\\Index.cshtml",
+              "RelativeToolTip": "TaskFronttoBack\\Views\\About\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-06T23:24:00.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AboutController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TaskFronttoBack\\TaskFronttoBack\\Controllers\\AboutController.cs",
+              "RelativeDocumentMoniker": "TaskFronttoBack\\Controllers\\AboutController.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TaskFronttoBack\\TaskFronttoBack\\Controllers\\AboutController.cs",
+              "RelativeToolTip": "TaskFronttoBack\\Controllers\\AboutController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T23:23:17.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TaskFronttoBack\\TaskFronttoBack\\Views\\Work\\Index.cshtml",
+              "RelativeDocumentMoniker": "TaskFronttoBack\\Views\\Work\\Index.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TaskFronttoBack\\TaskFronttoBack\\Views\\Work\\Index.cshtml",
+              "RelativeToolTip": "TaskFronttoBack\\Views\\Work\\Index.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACAAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-06T23:20:15.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TaskFronttoBack\\TaskFronttoBack\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "TaskFronttoBack\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TaskFronttoBack\\TaskFronttoBack\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "TaskFronttoBack\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAAC0AAACJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-06T23:18:58.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TaskFronttoBack\\TaskFronttoBack\\Program.cs",
+              "RelativeDocumentMoniker": "TaskFronttoBack\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TaskFronttoBack\\TaskFronttoBack\\Program.cs",
+              "RelativeToolTip": "TaskFronttoBack\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T23:16:46.118Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
